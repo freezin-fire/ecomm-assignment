@@ -4,7 +4,7 @@ A clean, responsive full-stack e-commerce catalog for computer hardware and peri
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Front-End
 - **HTML5**: Semantic web markup (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
@@ -18,7 +18,7 @@ A clean, responsive full-stack e-commerce catalog for computer hardware and peri
 
 ---
 
-## 🗂️ Categories (30 items total, 3 per category)
+## Categories (30 items total, 3 per category)
 
 1. **Cabinet**
 2. **Motherboard**
@@ -33,7 +33,7 @@ A clean, responsive full-stack e-commerce catalog for computer hardware and peri
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ A clean, responsive full-stack e-commerce catalog for computer hardware and peri
 
 ---
 
-## 🚀 Running Locally
+## Deployment Instructions
 
 1. **Install Dependencies**:
    ```bash
