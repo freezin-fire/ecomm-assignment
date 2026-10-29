@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" fill="none">
+    <rect width="600" height="400" fill="#E9ECEF"/>
+    <g transform="translate(250, 140)">
+        <rect x="10" y="10" width="80" height="60" rx="8" stroke="#ADB5BD" stroke-width="4" fill="#F8F9FA"/>
+        <circle cx="35" cy="35" r="10" fill="#CED4DA"/>
+        <path d="M15 60 L45 35 L75 60" stroke="#ADB5BD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <text x="50%" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#6C757D" text-anchor="middle">
+        Product Image Placeholder
+    </text>
+    <text x="50%" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#ADB5BD" text-anchor="middle">
+        600 × 400
+    </text>
+</svg>
+
